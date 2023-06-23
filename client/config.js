@@ -1,0 +1,1 @@
+export const TasksContractAddress = process.env.REACT_APP_TASK_CONTRACT_ADDRESS
